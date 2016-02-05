@@ -1,0 +1,8 @@
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/CMakeFiles/clean_test_results.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/CMakeFiles/clean_test_results_Project.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/CMakeFiles/download_extra_data.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/CMakeFiles/doxygen.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/gtest/CMakeFiles/gtest.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/gtest/CMakeFiles/gtest_main.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/CMakeFiles/run_tests.dir
+/home/kiki/catkin_ws/src/olin_multirotors_personal/build/CMakeFiles/tests.dir

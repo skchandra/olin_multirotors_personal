@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/kiki/catkin_ws/src/olin_multirotors_personal/devel -DCMAKE_INSTALL_PREFIX=/home/kiki/catkin_ws/src/olin_multirotors_personal/install -G Unix Makefiles

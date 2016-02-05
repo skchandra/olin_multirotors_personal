@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kiki/catkin_ws/src/olin_multirotors_personal/install/setup.sh
